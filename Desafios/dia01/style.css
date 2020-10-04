@@ -1,0 +1,153 @@
+:root {
+    --background-color: #ffffff;
+    --socialmedia-colorface: #3b5999;
+    --socialmedia-colortwitter: #55acee;
+    --socialmedia-colortwitch: #800080;
+    --socialmedia-coloryoutube: #ff0000;
+    --socialmedia-colorreddit: #ff4500;
+    --socialmedia-coloricon: #fff;
+    --btn-background: #e1e1e1;
+    --btn-light: #053a6b;
+    --btn-dark: #333333;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: fixed;
+    width: 100%;
+    height: 30px;
+    z-index: 1;
+  }
+  
+  .icons {
+    padding-top: 30px;
+    background: var(--background-color);
+    height: calc(100vh - 30px);
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  ul {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  ul li {
+    margin: max(12px, 4vw);
+    list-style: none;
+    width: max(20px, 8vw);
+    height: max(20px, 8vw);
+    transform: rotate(-30deg) skew(25deg);
+  }
+  
+  ul li span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: 0.5s;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    color: var(--socialmedia-coloricon);
+    font-size: 4vw !important;
+  }
+  
+  ul li:hover span {
+    box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.1);
+  }
+  
+  ul li:hover span:nth-child(5) {
+    transform: translate(1.6rem, -1.6rem);
+    opacity: 1;
+  }
+  
+  ul li:hover span:nth-child(4) {
+    transform: translate(1.2rem, -1.2rem);
+    opacity: 0.8;
+  }
+  
+  ul li:hover span:nth-child(3) {
+    transform: translate(0.8rem, -0.8rem);
+    opacity: 0.6;
+  }
+  
+  ul li:hover span:nth-child(2) {
+    transform: translate(0.4rem, -0.4rem);
+    opacity: 0.2;
+  }
+  
+  ul li:hover span:nth-child(1) {
+    transform: translate(0, 0);
+    opacity: 0.2;
+  }
+  
+  ul li:nth-child(1) span {
+    background: var(--socialmedia-colorface);
+  }
+  
+  ul li:nth-child(2) span {
+    background: var(--socialmedia-colortwitter);
+  }
+  
+  ul li:nth-child(3) span {
+    background: var(--socialmedia-colortwitch);
+  }
+  
+  ul li:nth-child(4) span {
+    background: var(--socialmedia-coloryoutube);
+  }
+  
+  ul li:nth-child(5) span {
+    background: var(--socialmedia-colorreddit);
+  }
+  
+  @media (min-width: 800px) {
+    ul li {
+      width: 60px;
+      height: 60px;
+      margin: 0 30px;
+    }
+  
+    ul li span {
+      font-size: 30px !important;
+    }
+  
+    ul li:hover span {
+      box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.1);
+    }
+  
+    ul li:hover span:nth-child(5) {
+      transform: translate(40px, -40px);
+      opacity: 1;
+    }
+  
+    ul li:hover span:nth-child(4) {
+      transform: translate(30px, -30px);
+      opacity: 0.8;
+    }
+  
+    ul li:hover span:nth-child(3) {
+      transform: translate(20px, -20px);
+      opacity: 0.6;
+    }
+  
+    ul li:hover span:nth-child(2) {
+      transform: translate(10px, -10px);
+      opacity: 0.2;
+    }
+  }
+  
