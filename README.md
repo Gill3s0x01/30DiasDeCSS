@@ -59,6 +59,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader Animado](#id02)
+* [Dia 03 - Mudança de Cor de Texto Quando Entra em Outra Div](#id03)
 
 
 --- 
@@ -72,6 +73,9 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ✔️ <b>Dia 02 - Loader Animado. <a name="id02"></a></b>
 <p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio02.gif" alt="Dia 02 - Loader Animado"  width="700"></p>
+
+✔️ <b>Dia 03 - Mudança de Cor de Texto Quando Entra em Outra Div. <a name="id03"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio03.gif" alt="Dia 03 - Mudança de Cor de Texto Quando Entra em Outra Div"  width="700"></p>
 
 --- 
 
