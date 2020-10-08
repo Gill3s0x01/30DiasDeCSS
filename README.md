@@ -58,6 +58,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 ### 📑 Sumário
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
+* [Dia 02 - Loader Animado](#id02)
 
 
 --- 
@@ -68,6 +69,9 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ✔️ <b>Dia 01 - Ícone de mídia social em camadas. <a name="id01"></a></b>
 <p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio01.gif" alt="Dia 01 - Ícone de mídia social em camadas."  width="700"></p>
+
+✔️ <b>Dia 02 - Loader Animado. <a name="id02"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio02.gif" alt="Dia 02 - Loader Animado"  width="700"></p>
 
 --- 
 
