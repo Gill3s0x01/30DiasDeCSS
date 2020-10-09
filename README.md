@@ -60,6 +60,8 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader Animado](#id02)
 * [Dia 03 - Mudança de Cor de Texto Quando Entra em Outra Div](#id03)
+* [Dia 04 - Botão com Efeito](#id04)
+* [Dia 05 - Pulsar](#id05)
 
 
 --- 
@@ -76,6 +78,14 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ✔️ <b>Dia 03 - Mudança de Cor de Texto Quando Entra em Outra Div. <a name="id03"></a></b>
 <p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio03.gif" alt="Dia 03 - Mudança de Cor de Texto Quando Entra em Outra Div"  width="700"></p>
+
+✔️ <b>Dia 04 - Botão com Efeito. <a name="id04"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio04.gif" alt="Dia 04 - Botão com Efeito"  width="700"></p>
+
+--- 
+s1
+✔️ <b>Dia 05 - Pulsar. <a name="id05"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio05.gif" alt="Dia 05 - Pulsar"  width="700"></p>
 
 --- 
 
