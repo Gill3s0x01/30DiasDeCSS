@@ -87,6 +87,19 @@ s1
 ✔️ <b>Dia 05 - Pulsar. <a name="id05"></a></b>
 <p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio05.gif" alt="Dia 05 - Pulsar"  width="700"></p>
 
+✔️ <b>Dia 06 - Efeito Lightning Texto. <a name="id06"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio06.gif" alt="Dia 06 - Efeito Lightning Texto"  width="700"></p>
+
+--- 
+
+✔️ <b>Dia 07 - Preloader Animado. <a name="id07"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio07.gif" alt="Dia 07 - Preloader Animado"  width="700"></p>
+
+--- 
+
+✔️ <b>Dia 08 - Coração Animado. <a name="id08"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio08.gif" alt="Dia 08 - Coração Animado"  width="700"></p>
+
 --- 
 
 ### ▶️ Referências 
