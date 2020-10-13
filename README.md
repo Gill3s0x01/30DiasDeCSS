@@ -102,6 +102,11 @@ s1
 
 --- 
 
+✔️ <b>Dia 09 - Pendulo de Newton. <a name="id09"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio09.gif" alt="Dia 09 - Pendulo de Newton"  width="700"></p>
+
+--- 
+
 ### ▶️ Referências 
 
 * [Codegrid](https://www.youtube.com/c/Codegrid)
