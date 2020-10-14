@@ -66,6 +66,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 * [Dia 07 - Preloader Animado](#id07)
 * [Dia 08 - Coração Animado](#id08)
 * [Dia 09 - Pendulo de Newton](#id09)
+* [Dia 10 - Efeito TikTok](#id10)
 
 
 --- 
@@ -110,6 +111,12 @@ s1
 <p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio09.gif" alt="Dia 09 - Pendulo de Newton"  width="700"></p>
 
 --- 
+
+✔️ <b>Dia 10 - Efeito TikTok. <a name="id10"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio10.gif" alt="Dia 10 - Efeito TikTok"  width="700"></p>
+
+--- 
+
 
 ### ▶️ Referências 
 
