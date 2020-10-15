@@ -67,6 +67,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 * [Dia 08 - Coração Animado](#id08)
 * [Dia 09 - Pendulo de Newton](#id09)
 * [Dia 10 - Efeito TikTok](#id10)
+* [Dia 11 - Barra de Progresso](#id11)
 
 
 --- 
@@ -114,6 +115,11 @@ s1
 
 ✔️ <b>Dia 10 - Efeito TikTok. <a name="id10"></a></b>
 <p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio10.gif" alt="Dia 10 - Efeito TikTok"  width="700"></p>
+
+--- 
+
+✔️ <b>Dia 11 - Barra de Progresso. <a name="id11"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio11.gif" alt="Dia 11 - Barra de Progresso"  width="700"></p>
 
 --- 
 
