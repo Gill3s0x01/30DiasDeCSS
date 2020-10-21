@@ -68,6 +68,13 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 * [Dia 09 - Pendulo de Newton](#id09)
 * [Dia 10 - Efeito TikTok](#id10)
 * [Dia 11 - Barra de Progresso](#id11)
+* [Dia 11 - Barra de Progresso](#id11)
+* [Dia 12 - Fantasma](#id12)
+* [Dia 13 - Super Mario](#id13)
+* [Dia 14 - Texto Animado](#id14)
+* [Dia 15 - Loading](#id15)
+* [Dia 16 - Borda com Efeito](#id16)
+* [Dia 17 - Efeito Holoforte](#id17)
 
 
 --- 
@@ -122,7 +129,35 @@ s1
 <p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio11.gif" alt="Dia 11 - Barra de Progresso"  width="700"></p>
 
 --- 
+✔️ <b>Dia 12 - Fantasma. <a name="id12"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio12.gif" alt="Dia 12 - Fantasma"  width="700"></p>
 
+--- 
+
+✔️ <b>Dia 13 - Super Mario. <a name="id13"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio13.gif" alt="Dia 13 - Super Mario"  width="700"></p>
+
+--- 
+
+✔️ <b>Dia 14 - Texto Animado. <a name="id14"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio14.gif" alt="Dia 14 - Texto Animado"  width="700"></p>
+
+--- 
+
+✔️ <b>Dia 15 - Loading. <a name="id15"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio15.gif" alt="Dia 15 - Loading"  width="700"></p>
+
+--- 
+
+✔️ <b>Dia 16 - Borda com Efeito. <a name="id16"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio16.gif" alt="Dia 16 - Borda com Efeito"  width="700"></p>
+
+--- 
+
+✔️ <b>Dia 17 - Efeito Holoforte. <a name="id17"></a></b>
+<p align="center"><img src="https://github.com/Gilles30/30DiasDeCSS/blob/master/Desafios/img/desafio17.gif" alt="Dia 17 - Efeito Holoforte"  width="700"></p>
+
+--- 
 
 ### ▶️ Referências 
 
